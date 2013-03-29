@@ -23,13 +23,13 @@ Theme: RP
 
  * Twitter feed (1 tweet)
  * Instagram feed (3 pictures)
- * [AddThis.com][4] sharing on each post
+ * [AddThis][4] sharing on each post
  * Google Analytics
  * Social Network links
  * Page support
  * Search slide-in
 
-**Theme file to copy into Tumblr's Customization tool: browse to the folder Theme RP and copy the contents of [pibby-theme-rp.html][5]**
+**Theme file to copy into Tumblr's Customization tool: browse to the folder Theme RP and copy the contents of pibby-theme-rp.html**
 
 **Credits:**  
 Original background texture: [http://subtlepatterns.com/debut-light/][6]  
@@ -45,9 +45,8 @@ I'll do my best to assist with any issues or help with customization through [my
 
   [1]: http://www.pibby.com
   [2]: http://pibby.tumblr.com
-  [3]: http://fontello.com/
-  [4]: http://fontello.com/
-  [5]: http://fontello.com/
+  [3]: http://framelessgrid.com/
+  [4]: http://www.addthis.com/
   [6]: http://subtlepatterns.com/debut-light/
   [7]: http://www.colourlovers.com/color/F54828/underwater
   [8]: http://www.colourlovers.com/color/2790B0/water_begins
