@@ -29,7 +29,7 @@ Theme: RP
  * Page support
  * Search slide-in
 
-**Theme file to copy into Tumblr's Customization tool: [pibby-theme-rp.html][5]**
+**Theme file to copy into Tumblr's Customization tool: browse to the folder Theme RP and copy the contents of [pibby-theme-rp.html][5]**
 
 **Credits:**  
 Original background texture: [http://subtlepatterns.com/debut-light/][6]  
