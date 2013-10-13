@@ -40,7 +40,7 @@ Icons: [http://fontello.com/][9]
 Frameless Grid: [http://www.framelessgrid.com][10]
 
 **Support:**  
-I'll do my best to assist with any issues or help with customization through [my Tumblr ask page][11].
+I'll do my best to assist with any issues or help with customization through [my Tumblr ask page][11]. How to [change the background image or links colors][12].
 
 
   [1]: http://www.pibby.com
@@ -53,3 +53,4 @@ I'll do my best to assist with any issues or help with customization through [my
   [9]: http://fontello.com/
   [10]: http://www.framelessgrid.com
   [11]: http://pibby.com/ask
+  [12]: http://pibby.com/post/47745106245/first-of-all-thank-you-so-much-for-give-us-this-amazing
