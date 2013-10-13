@@ -114,14 +114,6 @@ footer.credit { margin: 20px 0; width: 100%; text-align: center; font-size: 0.82
     footer.credit a { border: 0; color: #f54828; }
     footer.credit a:hover { color: #444 }
 
-/* responsive videos */
-.video { position: relative; nowhitespace: afterproperty; padding-bottom: 56.25%; /* 16/9 ratio */ height: 0; overflow: hidden;; }
-    .video iframe, .video object, .video embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
-
-/* responsive media */
-.embed-container { position: relative; nowhitespace: afterproperty; padding-bottom: 56.25%; /* 16/9 ratio */ height: 0;overflow: hidden;; }
-    .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
-
 /* -- media queries --  */
 /* layout for mobile */
 @media screen and (max-width: 480px) { 
